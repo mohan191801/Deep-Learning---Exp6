@@ -63,9 +63,9 @@ To develop an LSTM-based model for recognizing the named entities in the text.
 ## **PROGRAM**
 
 
-**Name:** Nishal K
+**Name:** MOHAN M
 
-**Register Number:** 2305001021
+**Register Number:** 2305001018
 
 ```python
 
